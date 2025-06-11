@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r 9-firstdirdeletion /tmp/my_first_directory
+rmdir/tmp/my_first_directory
