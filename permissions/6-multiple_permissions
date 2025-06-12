@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp somegroup hello
+chgrp users hello
