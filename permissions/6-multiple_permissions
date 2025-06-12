@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp x+r hello
+chgrp somegroup hello
