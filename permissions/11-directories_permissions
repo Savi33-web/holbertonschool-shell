@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod [d+u+g+o]* 777
+find . -type d -exec chmod a+rx {} +
