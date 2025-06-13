@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -r vincent:staff
+chown --from=CURRENT_OWNER:CURRENT_GROUP vincent:staff
