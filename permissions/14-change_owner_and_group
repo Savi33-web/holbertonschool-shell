@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from=CURRENT_OWNER:CURRENT_GROUP vincent:staff file rfile* 
+chown -R vincent:staff .
