@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -c ugo 777
+chmod [d+u+g+o]* 777
