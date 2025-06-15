@@ -1,0 +1,2 @@
+#!/bib/bash
+find /path/to/directory -type d | wc -l
