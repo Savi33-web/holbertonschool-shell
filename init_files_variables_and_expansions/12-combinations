@@ -1,2 +1,2 @@
 #!/bin/bash
-set= "{a..z}"| grep -v oo
+set={a..z}| grep -v oo
